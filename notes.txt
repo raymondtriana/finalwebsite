@@ -1,0 +1,26 @@
+
+meta
+    author
+    description
+    keywords
+nome
+    glossary
+    
+    
+requirements
+    use breadcrumbs//
+    glossary with 5 keywords with text links to it(Gettysburg address)//
+    3 absolute links to other websites in works cited or glossary or anywhere//
+    image link to absolute source
+    3 graphics in main content that text wraps around with captions on each
+    3 pull quotes //
+    hanging indents in works cited code in additional html css code section
+    author desc and keywords meta tags
+    only bold headings
+    no undelines minimal italics
+    
+    <a href="gettysburgglossary.html#link4">Fourscore and seven years ago</a>
+    links to 
+    
+    <p><a name="link1"><b>Abraham Lincoln</b></a>: The sixteenth president of the United States. More books have been written about Lincoln than any other historical figure in American history. 
+</p>
